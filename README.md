@@ -1,21 +1,21 @@
 # eaglercraft-client-maker 
-#To do:
+To do:
 
 
 
 
 
-*Add version changer (you can choose which eaglercraft version you would like to make your client on)
+Add version changer (you can choose which eaglercraft version you would like to make your client on)
 
-*Add CSS display
+Add CSS display
 
-#*Done:
+Done:
 
-*Made basic page
+Made basic page
 
-*Made default options customizable
+Made default options customizable
 
-*Added base for assets file for default texture pack (.epk files ONLY) 
+Added base for assets file for default texture pack (.epk files ONLY) 
 
-*Added Favicon
+Added Favicon
 
