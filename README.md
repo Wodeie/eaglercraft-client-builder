@@ -1,5 +1,5 @@
-# eaglercraft-client-maker - ONLY AN HTML PAGE AS OF NOW
-#To do:#
+# eaglercraft-client-maker 
+#To do:
 
 
 
@@ -9,7 +9,7 @@
 
 *Add CSS display
 
-#*Done:#
+#*Done:
 
 *Made basic page
 
